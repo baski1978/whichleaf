@@ -77,7 +77,7 @@ pyrsistent         ==0.14.9
 PySocks            ==1.6.8
 python-dateutil    ==2.7.5
 pytz               ==2018.9
-PyYAML             ==3.13
+PyYAML             ==5.1
 pyzmq              ==17.1.2
 qtconsole          ==4.4.3
 regex              ==2018.1.10
